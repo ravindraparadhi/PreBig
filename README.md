@@ -1,3 +1,3 @@
 # Hello World
-Hi humans,
+Hi,
 Ravindra here, I like to make a code for websites which help to sale their services easily.
